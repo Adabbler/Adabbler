@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome！
 
 <!--
 **Adabbler/Adabbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm here to learn technology and discover some interesting projects.
-I really like AI and I'm currently studying the relevant knowledge about it.
-###Tool
-I like using Visual Studio Code very much.
+**Personal Introduction**
+- Now I am a college student.
+- I'm here to learn technology and discover some interesting projects.
+- I really like AI and I'm currently studying the relevant knowledge about it.
+- I like using Visual Studio Code very much.
