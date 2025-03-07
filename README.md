@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm here to learn technology and discover some interesting projects.
+I really like AI and I'm currently studying the relevant knowledge about it.
+###Tool
+I like using Visual Studio Code very much.
